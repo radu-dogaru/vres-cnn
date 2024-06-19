@@ -3,7 +3,7 @@ A tiny-ml versatile model ensuring near SOA accuracy for very compact (compresse
 
 Code is avalailable to run in Google COLAB (or in Kaggle platform) 
 
-<a href="https://colab.research.google.com/github/radu-dogaru/vres-cnn/blob/vres-cnn-keras-demo.ipynb">
+<a href="https://colab.research.google.com/github/radu-dogaru/vres-cnn/blob/vres-cnn-keras-demo(1).ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
