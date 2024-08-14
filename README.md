@@ -8,4 +8,4 @@ Code is avalailable to run in Google COLAB (or in Kaggle platform)
 </a>
 
 Code is support for paper https://github.com/radu-dogaru/vres-cnn/blob/main/ECAI_2024_Paper_Dogaru.pdf 
-(please cite the paper if you find it useful) 
+(please cite the paper https://ieeexplore.ieee.org/document/10607405 if you find it useful) 
